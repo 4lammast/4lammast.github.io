@@ -1,2 +1,2 @@
 * {font-family: "Comic Relief", system-ui; margin: 20px; } body {margin: 0px; background-color: rgb(0,250,255)} button {width: 100px;}
-#muru {position: fixed; width: 100%; height: 20px; bottom: 0; left: 0; background-image: linear-gradient(#00ff0000, #00ff00ff); margin: 0px;} main {margin: 0px;} a {margin: 0;}
+#muru {position: fixed; width: 100%; height: 20px; bottom: 0; left: 0; background-image: linear-gradient(#00ff0000, #00ff00ff); margin: 0px;} a, i, u, b, ul, main {margin: 0px;}
