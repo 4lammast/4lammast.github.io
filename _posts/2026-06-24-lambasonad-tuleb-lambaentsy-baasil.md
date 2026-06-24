@@ -1,6 +1,6 @@
 ---
 layout: post
-title "Lambasõnad tuleb Lambaentsü baasil."
+title: "Lambasõnad tuleb Lambaentsü baasil."
 ---
 
 # Tulevase lehe Lambasõnad kood tuleb Lambaentsü baasil.
